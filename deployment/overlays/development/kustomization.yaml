@@ -3,7 +3,7 @@ patchesStrategicMerge:
 - database-connection-sealed-secret.yaml
 images:
 - name: greenstand/map-config-api
-  newTag: 1.1.0
+  newTag: 1.1.1
 apiVersion: kustomize.config.k8s.io/v1beta1
 kind: Kustomization
 resources:
