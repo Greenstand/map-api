@@ -1,3 +1,12 @@
+## [1.1.1](https://github.com/Greenstand/map-config-api/compare/v1.1.0...v1.1.1) (2023-05-01)
+
+
+### Bug Fixes
+
+* ref id ([1735e2f](https://github.com/Greenstand/map-config-api/commit/1735e2fd4601f4676ab1fbed50804df8110b2394))
+* semantic release ([52483c2](https://github.com/Greenstand/map-config-api/commit/52483c2a224ad870e9b9cf2adbf13d98b5c8b29b))
+* semantic release ([0c41742](https://github.com/Greenstand/map-config-api/commit/0c417421531131c91d1fe7da0419e9b2ac2217ca))
+
 # [1.1.0](https://github.com/Greenstand/map-config-api/compare/v1.0.12...v1.1.0) (2022-12-21)
 
 
