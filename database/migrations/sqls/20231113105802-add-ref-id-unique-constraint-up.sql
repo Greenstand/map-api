@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX "ref_id_key" ON "config"("ref_id");

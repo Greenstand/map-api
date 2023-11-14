@@ -14,10 +14,6 @@ class ConfigService {
   async createConfigs(config) {
     return this._config.createConfigs(config);
   }
-
-  async patchConfigs(config) {
-    return this._config.patchConfigs(config);
-  }
 }
 
 module.exports = ConfigService;
