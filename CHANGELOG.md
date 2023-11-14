@@ -1,3 +1,10 @@
+# [1.2.0](https://github.com/Greenstand/map-config-api/compare/v1.1.1...v1.2.0) (2023-11-14)
+
+
+### Features
+
+* change post endpoint functionality to upsert ([33ff220](https://github.com/Greenstand/map-config-api/commit/33ff220a05dcfa87a293232a004e52127a816d56))
+
 ## [1.1.1](https://github.com/Greenstand/map-config-api/compare/v1.1.0...v1.1.1) (2023-05-01)
 
 
